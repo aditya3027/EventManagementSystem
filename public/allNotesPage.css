@@ -1,0 +1,43 @@
+*{
+    background-image: url('https://res.cloudinary.com/dy3hvnjb6/image/upload/v1714284689/rm309-adj-09_bwzjxk.jpg');
+}
+.title {
+    padding-top: 2%;
+    color: #1C6585;
+    font-size: 3rem;
+}
+.notes-btn {
+    background: #0099ff;
+    background-image: -webkit-linear-gradient(top, #0099ff, #33b1ff);
+    background-image: -moz-linear-gradient(top, #0099ff, #33b1ff);
+    background-image: -ms-linear-gradient(top, #0099ff, #33b1ff);
+    background-image: -o-linear-gradient(top, #0099ff, #33b1ff);
+    background-image: linear-gradient(to bottom, #0099ff, #33b1ff);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 23px;
+    padding: 11px 21px 11px 21px;
+    text-decoration: none;
+  }
+  
+  .notes-btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .note{
+    margin-top: 5%;
+    border: #0099ff;
+  }
+  .content{
+    font-size: 1.5rem;
+    padding-top: 3%;
+    width: 80%;
+  }
